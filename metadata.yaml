@@ -1,10 +1,16 @@
 _repo: From-Paper-mill-to-Pressroom_47959
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47959-h/images/cover.jpg
 creator:
   author:
     agent_name: Wheelwright, William Bond
     gutenberg_agent_id: '44546'
     url: http://www.gutenberg.org/2009/agents/44546
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47959#From-Paper-mill-to-Pressroom
 gutenberg_issued: '2015-01-13'
 gutenberg_type: Text
 identifiers:
